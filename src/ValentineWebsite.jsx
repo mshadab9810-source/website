@@ -45,12 +45,12 @@ const ValentineWebsite = () => {
   ];
 
   const memories = [
-    { id: 1, caption: 'Our first adventure', image: 'PASTE_YOUR_IMAGE_URL_HERE' },
-    { id: 2, caption: 'That unforgettable sunset', image: 'PASTE_YOUR_IMAGE_URL_HERE' },
-    { id: 3, caption: 'Silly moments together', image: 'PASTE_YOUR_IMAGE_URL_HERE' },
-    { id: 4, caption: 'Your beautiful smile', image: 'PASTE_YOUR_IMAGE_URL_HERE' },
-    { id: 5, caption: 'Our cozy evenings', image: 'PASTE_YOUR_IMAGE_URL_HERE' },
-    { id: 6, caption: 'Making memories', image: 'PASTE_YOUR_IMAGE_URL_HERE' }
+    { id: 1, caption: 'Best Bady 🌙', image: 'https://ik.imagekit.io/fnqps1ql6/New%20Folder/best.jpg' },
+    { id: 2, caption: 'That unforgettable surprise', image: 'https://ik.imagekit.io/fnqps1ql6/New%20Folder/bday.jpg' },
+    { id: 3, caption: 'Forever 💝', image: 'https://ik.imagekit.io/fnqps1ql6/New%20Folder/WhatsApp%20Image%202026-02-04%20at%209.29.49%20AM%20(1).jpeg' },
+    { id: 4, caption: 'Silly moments together', image: 'https://ik.imagekit.io/fnqps1ql6/New%20Folder/fun.jpg' },
+    // { id: 5, caption: 'Our cozy evenings', image: 'PASTE_YOUR_IMAGE_URL_HERE' },
+    // { id: 6, caption: 'Making memories', image: 'PASTE_YOUR_IMAGE_URL_HERE' }
   ];
 
   const surprises = [
