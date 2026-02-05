@@ -115,7 +115,7 @@ const ValentineWebsite = () => {
             </div>
             
             <h1 className="text-6xl md:text-8xl font-bold mb-8 text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-rose-500 to-pink-600 animate-gradient leading-tight">
-              Farin Will you be my<br />Valentine?
+              Harshita Will you be my<br />Valentine?
             </h1>
             
             <p className="text-2xl text-rose-400 mb-12 font-light italic">
